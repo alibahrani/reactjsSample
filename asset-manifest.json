@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alibahrani/reactjsSample/static/css/main.0590d845.chunk.css",
+    "main.js": "/alibahrani/reactjsSample/static/js/main.710cde40.chunk.js",
+    "main.js.map": "/alibahrani/reactjsSample/static/js/main.710cde40.chunk.js.map",
+    "runtime-main.js": "/alibahrani/reactjsSample/static/js/runtime-main.a776afa7.js",
+    "runtime-main.js.map": "/alibahrani/reactjsSample/static/js/runtime-main.a776afa7.js.map",
+    "static/js/2.1e48545e.chunk.js": "/alibahrani/reactjsSample/static/js/2.1e48545e.chunk.js",
+    "static/js/2.1e48545e.chunk.js.map": "/alibahrani/reactjsSample/static/js/2.1e48545e.chunk.js.map",
+    "index.html": "/alibahrani/reactjsSample/index.html",
+    "precache-manifest.2038da7b410d519023ad6573aac513aa.js": "/alibahrani/reactjsSample/precache-manifest.2038da7b410d519023ad6573aac513aa.js",
+    "service-worker.js": "/alibahrani/reactjsSample/service-worker.js",
+    "static/css/main.0590d845.chunk.css.map": "/alibahrani/reactjsSample/static/css/main.0590d845.chunk.css.map",
+    "static/js/2.1e48545e.chunk.js.LICENSE.txt": "/alibahrani/reactjsSample/static/js/2.1e48545e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a776afa7.js",
+    "static/js/2.1e48545e.chunk.js",
+    "static/css/main.0590d845.chunk.css",
+    "static/js/main.710cde40.chunk.js"
+  ]
+}
